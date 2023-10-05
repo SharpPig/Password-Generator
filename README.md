@@ -1,5 +1,5 @@
 # Password-Generator
-HTML password generator with passwords generated on local hardware using javascript.
+HTML password generator with passwords generated on local hardware using Javascript.
 
 ## Also available through https://privatebrowsing.org/passwords
 
